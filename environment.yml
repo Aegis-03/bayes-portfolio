@@ -1,0 +1,17 @@
+name: bayes_practice
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - pyreadr
+  - seaborn
+  - scipy
+  - arviz
+  - ipykernel
+  - jupyterlab
+  - cmdstan
+  - cmdstanpy
+  - pymc
